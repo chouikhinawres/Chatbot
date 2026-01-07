@@ -1,0 +1,5 @@
+Artificial Intelligence is a branch of computer science.
+It focuses on creating machines that can think and learn.
+Machine learning is a subfield of artificial intelligence.
+AI is used in healthcare, finance, and education.
+Natural language processing allows machines to understand human language.
